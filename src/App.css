@@ -1,0 +1,25 @@
+.navbar{
+    background-color:yellow;
+    height: 150px;
+    text-align: center;
+}
+.hero{
+    background-color: green;       
+    height: 150px;         
+    text-align: center;
+}
+.skills{
+    background-color: pink;
+    height: 150px;
+    text-align: center;
+}
+.footer{
+    background-color: purple;
+    height: 150px;
+    text-align: center;
+}
+.exp{
+    background-color: lightblue;
+    height: 150px;
+    text-align: center;
+}
